@@ -10,5 +10,5 @@ package awajabalcbr;
  * @author developpeur
  */
 public class VueAccueil {
-    
+    private String nom;
 }
